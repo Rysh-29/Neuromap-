@@ -1,0 +1,5 @@
+{
+  "name": "NeuroMap",
+  "description": "A minimal, dark-mode focused mind mapping tool designed for deep study and knowledge organization. Features rich text notes, visual connections, and persistent local storage.",
+  "requestFramePermissions": []
+}
